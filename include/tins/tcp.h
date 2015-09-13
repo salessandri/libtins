@@ -108,7 +108,8 @@ namespace Tins {
             SACK_OK = 4,
             SACK    = 5,
             TSOPT   = 8,
-            ALTCHK  = 14
+            ALTCHK  = 14,
+            TCP_AO  = 29
         };
         
         /**
